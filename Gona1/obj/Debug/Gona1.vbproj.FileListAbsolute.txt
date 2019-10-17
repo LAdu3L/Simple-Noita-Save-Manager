@@ -1,0 +1,11 @@
+C:\Users\LAdu3L\Desktop\vb\ArmyGames\Gona1\Gona1\bin\Debug\Gona1.exe.config
+C:\Users\LAdu3L\Desktop\vb\ArmyGames\Gona1\Gona1\bin\Debug\Gona1.exe
+C:\Users\LAdu3L\Desktop\vb\ArmyGames\Gona1\Gona1\bin\Debug\Gona1.pdb
+C:\Users\LAdu3L\Desktop\vb\ArmyGames\Gona1\Gona1\bin\Debug\Gona1.xml
+C:\Users\LAdu3L\Desktop\vb\ArmyGames\Gona1\Gona1\obj\Debug\Gona1.Form1.resources
+C:\Users\LAdu3L\Desktop\vb\ArmyGames\Gona1\Gona1\obj\Debug\Gona1.Resources.resources
+C:\Users\LAdu3L\Desktop\vb\ArmyGames\Gona1\Gona1\obj\Debug\Gona1.vbproj.GenerateResource.Cache
+C:\Users\LAdu3L\Desktop\vb\ArmyGames\Gona1\Gona1\obj\Debug\Gona1.exe
+C:\Users\LAdu3L\Desktop\vb\ArmyGames\Gona1\Gona1\obj\Debug\Gona1.xml
+C:\Users\LAdu3L\Desktop\vb\ArmyGames\Gona1\Gona1\obj\Debug\Gona1.pdb
+C:\Users\LAdu3L\Desktop\vb\ArmyGames\Gona1\Gona1\obj\Debug\Gona1.vbprojResolveAssemblyReference.cache
